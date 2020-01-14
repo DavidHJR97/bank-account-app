@@ -5,7 +5,7 @@ A PHP web application that was build using PHP, MySQL, Bootstrap, and HTML.
 I created a web based bank application. The user can create an
 account, login in and start using the bank account. The user will have the option to
 deposit or withdraw money to their savings and checking account. All the transactions will
-be displayed. I used PHP, HTML, CSS, Bootstrap and MySQL to complete this project.
+be displayed. I used PHP, HTML, CSS, Bootstrap and MySQL to complete this project. I also used Heroku to host the web app.
 
 # Live Site
 
